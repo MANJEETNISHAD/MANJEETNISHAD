@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning on HTML.<br>Ask me about HTML.<br>How to reach me manjeetnishad012@gmail.com<br>
+I'm currently learning Full stack web developement .<br>Ask me about HTML.<br>How to reach me manjeetnishad012@gmail.com<br>
 
 
 # 💻 Tech Stack:
